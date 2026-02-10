@@ -1,6 +1,6 @@
 # Django GraphiQL Debug Toolbar
 
-[![Tests](https://github.com/flavors/django-graphiql-debug-toolbar/actions/workflows/test-suite.yml/badge.svg)](https://github.com/flavors/django-graphiql-debug-toolbar/actions)
+[![Tests](https://github.com/Unity-Billal-mesloub/django-graphiql-debug-toolbar/actions/workflows/test-suite.yml/badge.svg)](https://github.com/Unity-Billal-mesloub/django-graphiql-debug-toolbar/actions)
 [![Coverage](https://img.shields.io/codecov/c/github/flavors/django-graphiql-debug-toolbar?color=%2334D058)](https://codecov.io/gh/flavors/django-graphiql-debug-toolbar)
 [![Codacy](https://app.codacy.com/project/badge/Grade/354f70cdefda40938c397d8651a2a06c)](https://www.codacy.com/gh/flavors/django-graphiql-debug-toolbar/dashboard)
 [![Package version](https://img.shields.io/pypi/v/django-graphiql-debug-toolbar.svg)](https://pypi.python.org/pypi/django-graphiql-debug-toolbar)
