@@ -42,4 +42,4 @@ MIDDLEWARE = [
 ]
 ```
 
-Credits to [@jazzband](https://jazzband.co) / [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar).
+Credits to [@jazzband](https://jazzband.co) / [django-debug-toolbar](https://github.com/Unity-Billal-mesloub/django-debug-toolbar).
